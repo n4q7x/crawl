@@ -106,4 +106,39 @@ of all the links we could crawl next, which ones we will.
 
 """
 
+"""
+
+
+Arguably, crawling is a big deal. In the sense of, it is an extremely
+useful operation. It is essentially the primary way anybody harvests
+data from the internet. Google Search is built on crawling. All
+the big AI companies that had to train their large language models
+on extremely large datasets of natural language text used crawlers
+to soak up as much data, webpages, texts, information, etc., 
+from the web as possible. Nowadays, it is said that "data is the new oil".
+There are powerful algorithms and programs that can turn data into actionable 
+insights, for all kinds of reasons, from business strategy to personal need
+to scientific research to political mass manipulation 
+to international warfare (yes, seriously!). Acquiring data is powerful,
+because knowledge really is power. 
+
+This is why, when we crawl, we will also have to learn a lot about
+the legal and ethical frameworks that exist which guide us 
+in how we can crawl responsibly.
+
+Therefore, yet another reason to learn how to do this is
+simply to become more aware: the internet is a vast repository
+of information, and some of it people may not realize is still out
+there about them. Understanding how to thoroughly harvest data from
+the web can help you become more aware that if you don't learn to
+cover your tracks (i.e., practicing better data privacy strategies),
+people are likely doing this to you: information about you is in 
+their databases, and it can be hard to know who has it
+and what they might want to do with it.
+
+
+
+
+
+"""
 
