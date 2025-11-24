@@ -1,6 +1,5 @@
 # import sys
 
-import requests
 
 """
 
@@ -152,9 +151,43 @@ I said that we are going to do a lot of this from scratch. I might
 implement that later. Realizing it would take a while,
 we will actually import some standard libraries.
 
+"""
+
+import requests
+
+
+"""
+
+As stated previously, we need to decide a place to begin crawling.
+
+It would seem natural to choose some arbitrary, famous websites,
+like Google, say. However, we will later see that some sites
+are harder to crawl than others, and in fact, some sites
+try very hard to block what they detect as automatic page interaction,
+so called "bots".
+
+You could also wonder if there is some location on the web
+that is more connected to the rest of the web, so if we start there,
+we would more efficiently travel to other important parts of the web.
+
+I will suggest 2 approaches, but you can choose your own.
+
+I think Wikipedia could be a good place to start, since it is a catalogue
+of information and has many links across the web,
+many of which could be high-quality and contain useful
+information themselves.
+
+My other preferred approach is to not resort to human subjectivity
+to choose a place to crawl, but to explore what kinds of interesting
+and obscure web pages we could discover by randomly enumerating
+well-formed URLs.
+
+We'll explore both of these approaches, starting with the latter, and falling
+back on some cherry-picked URLs like Wikipedia if that doesn't work out.
+
+
 
 
 
 
 """
-
