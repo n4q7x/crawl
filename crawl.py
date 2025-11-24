@@ -1,5 +1,7 @@
 # import sys
 
+import requests
+
 """
 
 The sys module is how you can interact with certain objects
@@ -17,6 +19,8 @@ But in the beginning, we may not even need that.
 """
 
 """
+
+INTRODUCTION
 
 We should think about some of the very basics of what a crawler might do, 
 to establish a basic functionality before enhancing usability,
@@ -135,6 +139,18 @@ cover your tracks (i.e., practicing better data privacy strategies),
 people are likely doing this to you: information about you is in 
 their databases, and it can be hard to know who has it
 and what they might want to do with it.
+
+
+"""
+
+
+"""
+
+MAKING REQUESTS
+
+I said that we are going to do a lot of this from scratch. I might
+implement that later. Realizing it would take a while,
+we will actually import some standard libraries.
 
 
 
