@@ -4,4 +4,12 @@ This README will serve as exposition and a kind of tutorial for how this code wa
 
 We will use a `pyproject.toml` file to specify that this project requires Python version 3.14.
 
+We will write the code in a `crawl.py` file.
+
+I am developing this in VS Code.
+
+Assuming a completely fresh installation of VS Code with no settings configured yet, first, sign into your GitHub in VS Code, and make sure you have the standard VS Code Python extension installed.
+
+To continue this tutorial, start reading the comments in the `crawl.py` file.
+
 
