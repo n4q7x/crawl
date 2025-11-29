@@ -80,6 +80,15 @@ Similarly, they have IP addresses.
 
 At the top level, there is an organization, called IANA, which is responsible for choosing which countries and internet companies get which IP addresses.
 
+Internet packets are *routed*, just like mail in the mailsystem.
+
+You write a letter, and it goes to your nearby post office.
+
+They look at where it *wants* to go, and figure out who *they* should sent it to.
+
+This process repeats until your letter arrives in, oh, a village in Zambia.
+
+Websites are *hosted* 
 
 """
 
