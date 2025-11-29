@@ -1,14 +1,26 @@
-# %% [markdown]
-# There is a difference between the internet and the web.
-# The internet is the system of connected computers that runs on the TCP/IP protocol stack.
-# It was developed in the 1960s-1980s by the US Department of Defense. [^1]
+There is a difference between the internet and the web.
+
+The internet is the system of connected computers that runs on the TCP/IP protocol stack.
+
+It was developed in the 1960s-1980s by the US Department of Defense. [^1]
+
+The web is the system by which computers request and share documents of a certain format, called "webpages", on the internet.
+
+It was developed by Tim Berners-Lee in the 1990s. [^2]
+
+We often talk about the web in metaphors of "going somewhere": surfing the web, visiting a webpage, and so on.
+
+This belies what is actually going on. 
+
+Your computer does not "go" to a website.
+
+It sends a request to a server, and the server sends back a response containing the webpage's source code.
+
+Your computer then runs that code, creating the graphical, interactive interface of a webpage that you see in your browser.
 
 
 
-# %%
 
-
-# import sys
 
 
 """
@@ -286,3 +298,4 @@ work in progress, to be conitneuds
 
 
 [^1]: https://en.wikipedia.org/wiki/ARPANET
+[^2]: https://en.wikipedia.org/wiki/Tim_Berners-Lee
